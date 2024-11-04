@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Ayman Shaheen 
-- 👀 I’m interested in mathematical modeling, data science, and full-stack development
-- 🌱 I’m currently learning TypeScript and pursuing a BS in Mathematics
-- 💞️ I’m looking to collaborate on projects that apply mathematical concepts to real-world problems, data Science projects involving predictive modeling, data visualization, and statistical analysis.
+Ayman Shaheen
+
+- 🧑‍🎓 Math major exploring Next.js and full-stack dev
+- 💡 Focused on data science: predictive modeling, visualization, and applied math
+- 👥 Open to collaboration in mathematical modeling and data-driven projects
 - 📫 How to reach me: https://pk.linkedin.com/in/ayman-shaheen-3071722b9
 - 😄 Pronouns: She/her
 
